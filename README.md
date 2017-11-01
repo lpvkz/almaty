@@ -31,7 +31,7 @@ https://toool.nl/Lockpicking
 
 # Законно ли это?
 
-https://tengrinews.kz/zakon/pravitelstvo_respubliki_kazahstan_premer_ministr_rk/natsionalnaya_bezopasnost/id-P010001247_/
+https://egov.kz/cms/ru/law/list/P010001247_
 
 Об утверждении Правил импорта, экспорта, реализации и использования специальных технических средств для проведения специальных оперативно-розыскных мероприятий, а также специальных материалов и оборудования для их производства в Республике Казахстан
 
